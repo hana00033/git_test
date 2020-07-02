@@ -1,12 +1,2 @@
 test
-ABC
-E
-D
-F
-G
-H
-I
-J
-pull requestのテスト
-K
-pull requestのテスト
+A
